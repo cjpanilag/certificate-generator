@@ -34,9 +34,13 @@
 
 **Carl Jeffrie Panilag**
 
+✉ email <cjpanilag@gmail.com>
+
+👍 socials:
+
 - [github](https://github.com/cjpanilag)
-- [email](cjpanilag@gmail.com)
 - [twitter](https://twitter.com/carljeffrie)
+- [facebook](https://www.facebook.com/carljeffrie.panilag)
 
 ## 🤝 Support
 
