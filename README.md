@@ -11,7 +11,12 @@
 
 - [download](https://github.com/cjpanilag/certificate-generator/blob/main/dist.rar "dist.rar")
 - extract file
-- go to `cd /dist/CertificateGenerator/`
+- go to
+
+```
+cd /dist/CertificateGenerator/
+```
+
 - run the CertificateGenerator executable.
 
 ### Note
@@ -28,7 +33,10 @@
   - Pillow <https://pypi.org/project/Pillow/>
 - go to root dir.
 - run into your favorate command-line:
-  - `python main.py`
+
+```
+  python main.py
+```
 
 ## Author
 
